@@ -14,8 +14,8 @@
         <label for="op">Operação</label>
         <select name="op" id="op">
             <option value="+">somar</option>
-            <option value="-">multiplicar</option>
-            <option value="*">subtrair</option>
+            <option value="*">multiplicar</option>
+            <option value="-">subtrair</option>
             <option value="/">dividir</option>
         </select>
         <br>
