@@ -9,7 +9,7 @@
     <form method="post" action="main.php">
         <label for="num1">Numero 1:</label>
         <input type="text" name="num1" id="num1">
-        <label for="num1">Numero 2:</label>
+        <label for="num2">Numero 2:</label>
         <input type="text" name="num2" id="num2">
         <label for="op">Operação</label>
         <select name="op" id="op">
