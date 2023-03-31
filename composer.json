@@ -1,0 +1,11 @@
+{
+    "name": "clayton/calculadoraphp",
+    "description": "calculadora php composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "require": {}
+}
